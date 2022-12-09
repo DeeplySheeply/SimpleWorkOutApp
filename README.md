@@ -1,4 +1,4 @@
-# SimpleWorkOutApp6
+# SimpleWorkOutApp
 
 This is a basic work out app built using ASP.NET
 
